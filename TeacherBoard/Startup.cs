@@ -77,6 +77,7 @@ namespace TeacherBoard
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
                 endpoints.MapHub<DrawHub>("/draw");
+                endpoints.MapHub<ShapeHub>("/shape");
             });
         }
     }

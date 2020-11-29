@@ -9,6 +9,35 @@
         "signalr.min.js",
         "signalr.js"
       ]
+    },
+    {
+      "library": "pdf.js@2.6.347",
+      "destination": "wwwroot/lib/pdf.js/",
+      "files": [
+        "pdf.js",
+        "pdf.js.map",
+        "pdf.min.js",
+        "pdf.worker.entry.js",
+        "pdf.worker.entry.min.js",
+        "pdf.worker.js",
+        "pdf.worker.js.map",
+        "pdf.worker.min.js",
+        "pdf_viewer.css",
+        "pdf_viewer.js",
+        "pdf_viewer.js.map",
+        "pdf_viewer.min.css",
+        "images/annotation-check.svg",
+        "images/annotation-comment.svg",
+        "images/annotation-help.svg",
+        "images/annotation-insert.svg",
+        "images/annotation-key.svg",
+        "images/annotation-newparagraph.svg",
+        "images/annotation-noicon.svg",
+        "images/annotation-note.svg",
+        "images/annotation-paragraph.svg",
+        "images/loading-icon.gif",
+        "images/shadow.png"
+      ]
     }
   ]
 }
